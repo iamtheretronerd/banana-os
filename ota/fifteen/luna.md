@@ -1,15 +1,13 @@
-# BananaOS 15.0 — 20261028-1928
+# BananaOS 15.0 — 20261028-2105
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Setup: native Wi-Fi network list and BB10-style PIN/password screen lock
-- Hardware navigation keys by default; on-screen navigation bar and gesture pill hidden
-- Recents key opens BB10 Active Frames
-- Hub: swipe left to go back home, aligned sources drawer, visible status bar icons
-- Pull down anywhere on the home screen to open notifications
-- Quick settings: BB10 palette (dark tiles, BlackBerry blue when on)
-- Cleaner Active Frames page
-- BananaOS recovery logo
+- Home screen: long-press and drag apps to rearrange them
+- Banana Hub dark theme (follows system, switch in the Hub menu)
+- Hub sources drawer: aligned icons and unread counts
+- BB10-style notification shade: black backdrop, flat rows, blue accent stroke, blue brightness slider
+- Settings: BB10 title bar with blue accent stroke and row dividers
+- BlackBerry blue system accent
 
-SHA-256: `f5f9d6515b4065aacc65044c65f68fa2eb42b7b0a1c850dbc5445507b2829c2b`
+SHA-256: `8fbb589cde3dfdadba3a0a80f98e2f30f0d53b7ba9de09b2e02c5d54036c8916`
