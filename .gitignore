@@ -1,0 +1,6 @@
+# Builds and images never go in git; they are release assets
+*.zip
+*.img
+*.md5sum
+*.sha256sum
+__pycache__/
