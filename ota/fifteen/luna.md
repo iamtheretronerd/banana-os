@@ -1,13 +1,14 @@
-# BananaOS 15.0 — 20261029-0231
+# BananaOS 15.0 — 20261029-1623
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Hardware keys only: the launcher's on-screen navigation bar is now hidden
-- Home search: monochrome redesign with contact and Hub message results
-- Notification shade: rounded cards, icon-only quick settings, neutral grey palette, no blue line
-- Home screen: Pixel-style icon rearranging with live reflow and an app shortcut popup
-- Settings: pure black theme, new home page with title and search, one-line sub-page title bar
-- Recents key: apps minimise into their Active Frame and grow back out when opened
+- Lock screen: BlackBerry 10 Hub peek with app icons, counts, notched rule and message previews
+- Lock screen clocks: new BlackBerry default plus Bold, Outline and Mono; pick one in Settings > Display > Lock screen
+- Notification shade: frosted blurred backdrop; quick settings icons slide straight down when expanding
+- Recents key: fixed the app snapshot left floating after minimising
+- Home key returns to the page you were on; Recents always opens Active Frames
+- Home dock indicators follow page order (Hub, Active Frames, app pages)
+- Search: removed the first-result highlight box
 
-SHA-256: `3064f0cb23d94db0a2fbe4c35b9b97f762a26f24aa35034e96a0cc63db804518`
+SHA-256: `f2caaa97d4971f65531ba0ba4779e2dc69bb354c0de52a5f094e439245f1e3ce`
