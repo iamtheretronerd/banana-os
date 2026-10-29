@@ -25,7 +25,9 @@ shift || true
 NOTES=("$@")
 [[ ${#NOTES[@]} -eq 0 ]] && NOTES=("BananaOS update for BlackBerry KEY2 LE (luna)")
 
-VERSION="15.0"
+# Version comes from the zip name (BananaOS_luna-<version>-<date>-<time>.zip)
+VERSION="$(basename "$ZIP_PATH" | sed -nE 's/^BananaOS_[^-]+-([0-9.]+)-.*/\1/p')"
+VERSION="${VERSION:-15.0}"
 BRANCH_DIR="fifteen"
 DEVICE="luna"
 
