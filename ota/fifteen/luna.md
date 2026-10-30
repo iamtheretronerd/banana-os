@@ -1,12 +1,12 @@
-# BananaOS 15.0 — 20261029-1810
+# BananaOS 15.1 — BananaOS_luna-15.1-20261030-1330.zip
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Notification shade: everything square (cards, tiles, buttons, sliders); blur removed for speed, translucent backdrop instead
-- Lock screen: BlackBerry clock centred with the date under it, new Stacked clock style
-- Lock screen: unlock icon moved to the bottom-left corner, away from notifications
-- Lock screen Hub peek: fits any number of notifications with a 'N more messages' footer; private contents hidden only when you choose
-- Banana Hub renamed to Hub
+- Lock screen: the stock notification cards no longer draw over the Hub peek
+- Hub peek follows every Android lock screen setting: notifications on/off, hide silent, per-app visibility, Do Not Disturb, work profile and sensitive content
+- Keyboards: no more empty gap under the suggestion strip when using the physical keyboard
+- Lock screen: full-size unlock icon; the date is centred under centred clocks
+- BananaOS clocks (BlackBerry, Bold, Outline, Mono, Stacked) now appear in Wallpaper & style
 
-SHA-256: `cf79cf916272ce8bad4b261a1b418fc7317dfee11916701fddb53df61863ad3b`
+SHA-256: `d7046f1ef67c8c9eaabcdde9a6a631182c18d717103e95ee1fe3ef866008b3a0`
