@@ -48,7 +48,7 @@ if [[ -z "$DATETIME" ]]; then
 fi
 
 # Tag from the zip name: BananaOS_luna-15.0-20261028-1347.zip -> v15.0-20261028-1347
-STAMP="$(echo "$FILENAME" | sed -E 's/^BananaOS_luna-15\.0-([0-9]{8}-[0-9]{4})\.zip$/\1/')"
+STAMP="$(echo "$FILENAME" | sed -E 's/^BananaOS_[^-]+-[0-9.]+-([0-9]{8}-[0-9]{4})\.zip$/\1/')"
 TAG="v${VERSION}-${STAMP}"
 DOWNLOAD_URL="https://github.com/${REPO}/releases/download/${TAG}/${FILENAME}"
 
