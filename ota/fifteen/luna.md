@@ -1,14 +1,14 @@
-# BananaOS 15.1 — 20261030-2318
+# BananaOS 15.1 — 20261104-1938
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Settings: new BananaOS page (lock screen, pull-down, Hub, edge handles, BlackBerry settings)
-- Pull-down shows Control Centre only; notifications live in the Hub (pop-ups still appear)
-- Hub: Now view with Clear all, live cards for ongoing calls, timers and navigation
-- Hub: swipe in from the screen edge over any app (BB10 peek); opens on Now over apps
-- Hub: one-time codes are never saved and leave the Hub after 10 minutes
-- Lock screen: date centred under centred clocks; Hub peek can be turned off
-- Home: app pages fill down to the dock; Home in the Hub goes to the apps
+- Kernel: 273 security fixes from the CIP long-term kernel (Linux 4.19)
+- Lock screen: new BananaOS lock screen (Hub column, music strip, lift away to unlock); switch back in Settings → BananaOS
+- Status bar: BB10 style with a centred clock and a Hub splat for unread items
+- Pull-down: half view first, then full; two-column square tiles; flat Settings and Power buttons
+- Hub over apps: status bar matches the Hub, works with Battery Saver / dark theme, swipe from the edge to close
+- Hub: music shows as a player card with artwork, progress and controls
+- Settings: BananaOS logo on the BananaOS page
 
-SHA-256: `a6de0ca31407a4deda4d3f62897d47caf23d679d7bcd536a56528fa6cc7e49ea`
+SHA-256: `bb4c066bbe790ecc2dffc74ab6c723ce6d32c853bd0fedc99e1cf1ee8ad02898`
