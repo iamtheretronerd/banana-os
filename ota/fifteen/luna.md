@@ -1,14 +1,12 @@
-# BananaOS 15.1 — 20261104-1938
+# BananaOS 15.1 — 20261105-0038
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Kernel: 273 security fixes from the CIP long-term kernel (Linux 4.19)
-- Lock screen: new BananaOS lock screen (Hub column, music strip, lift away to unlock); switch back in Settings → BananaOS
-- Status bar: BB10 style with a centred clock and a Hub splat for unread items
-- Pull-down: half view first, then full; two-column square tiles; flat Settings and Power buttons
-- Hub over apps: status bar matches the Hub, works with Battery Saver / dark theme, swipe from the edge to close
-- Hub: music shows as a player card with artwork, progress and controls
-- Settings: BananaOS logo on the BananaOS page
+- Lock screen: rebuilt as on BlackBerry 10 (big clock and short date, battery top left, carrier top right, Hub icons with counts on the left, camera bottom right, swipe up to unlock); switch back in Settings → BananaOS
+- Password screen: BB10 style, always dark; full-width PIN pad with square keys and a blue OK key
+- Lock screen: the Hub splat no longer covers the carrier name
+- Pull-down: BB10 look (no tile boxes, blue underline for tiles that are on, centred time with date and carrier under it); fixed the gap between tiles while pulling
+- Hub: music player card is compact and rounded with a close button; no longer fills the screen
 
-SHA-256: `bb4c066bbe790ecc2dffc74ab6c723ce6d32c853bd0fedc99e1cf1ee8ad02898`
+SHA-256: `398e482591950d80186c04fb6802398c21e89a066523525aec33c85269039cf1`
