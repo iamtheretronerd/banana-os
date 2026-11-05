@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261105-1755
+# BananaOS 15.1 — 20261105-2214
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Lock screen: the extra date over the battery at the top left is hidden; a small grey line at the bottom names where it came from (temporary)
+- Lock screen: Google's smartspace card (the extra date over the battery) is hidden for good; the temporary grey line at the bottom is gone
 
-SHA-256: `136fc10947b9ecb87d62547a32fdbf31843bc5555ab42240dde6faa98f1137c1`
+SHA-256: `00009727707813a48eaa83320fba85a86872b9b4336d932d05cdeb6f69179e7b`
