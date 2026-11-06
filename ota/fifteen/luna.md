@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261105-2214
+# BananaOS 15.1 — 20261106-0858
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Lock screen: Google's smartspace card (the extra date over the battery) is hidden for good; the temporary grey line at the bottom is gone
+- Security: Android security patch level 2026-10-01 (274 fixes since May 2025). Home screen: BlackBerry 10 icon pack, plus support for installed icon packs (Settings > BananaOS > Home screen > Icon pack). Pull-down: brightness is now a tile (tap for Auto/Low/Medium/High/Max) instead of the slider. Lock screen: clock and date centred
 
-SHA-256: `00009727707813a48eaa83320fba85a86872b9b4336d932d05cdeb6f69179e7b`
+SHA-256: `ceba0886ea3ec28637aa4b76a6c59eaeb771bb49e49065877d77a217f168267e`
