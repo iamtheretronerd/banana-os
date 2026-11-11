@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261106-0858
+# BananaOS 15.1 — 20261111-1507
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Security: Android security patch level 2026-10-01 (274 fixes since May 2025). Home screen: BlackBerry 10 icon pack, plus support for installed icon packs (Settings > BananaOS > Home screen > Icon pack). Pull-down: brightness is now a tile (tap for Auto/Low/Medium/High/Max) instead of the slider. Lock screen: clock and date centred
+- BB10 10.3 look. Home: BB10 page indicator (envelope = Hub, house = Active Frames, numbered page), Phone/Camera dock, red splats, grid edit mode (blinking icons, trash cans). Active Frames: BB10 frames that scroll. Hub: BB10 10.3 Hub, follows your finger, Instant Actions, calendar on pull-down, pinch for unread. Hold the Recents key to Peek at your notifications; let go to stay in the app. Instant Previews: BB10 banners with quick reply (Settings > BananaOS). New: Bedside mode, Notifications profile tile, BB10 volume bar, BB10 power menu, moon on the lock screen. Quick Settings, battery icon, Settings and setup wizard in the BB10 style. New boot animation and BB10-style sounds. Also: faster fingerprint unlock, the side key reliably opens the assistant
 
-SHA-256: `ceba0886ea3ec28637aa4b76a6c59eaeb771bb49e49065877d77a217f168267e`
+SHA-256: `5e40a1b5bee1c327b80ab26ea76f77bb12488f1c20339328b4962e527ec545c2`
