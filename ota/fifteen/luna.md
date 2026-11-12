@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261112-0116
+# BananaOS 15.1 — 20261112-0532
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- BB10 10.3 fixes. Quick Settings rebuilt like BB10: one pull opens it fully, split tiles, black panel with grabber, Settings and Notifications profile tiles, no pinned media. Lock screen: no black band over the wallpaper, no flash of Android notifications as the screen turns on, pull down from the top (or tap the moon) for Bedside mode. Peek: hold the Recents key and the app shrinks to a card in the middle with your notification column; let go to go back. Power key: BB10 hold-to-turn-off countdown (3, 2, 1); let go for Cancel or Restart. Volume: BB10 strip over the top with track, artist and controls. Active Frames: pages of four that snap, never behind the dock. Home: long app names and splats fit, typing on home shows clear results. Faster: smoother Hub scrolling, quicker app launches
+- BB10 Control Centre rebuilt: one solid sheet that slides down and up with your finger, BB10 tile sizes and spacing scaled to the KEY2 screen, BB10-style icons, handle at the bottom, one swipe up closes it, BB10 tile order. Lock screen: pulling down opens Bedside mode (never the shade), the moon opens it too, no black band over the wallpaper. Bedside mode opens again. Peek on the Recents key no longer crashes or stops working. Hub scrolls smoother. Active Frames: pages of four, nothing behind the dock. Power key: pitch-black BB10 screen with proper Cancel and Restart. Black volume strip. Faster app launches
 
-SHA-256: `396c1e9e11d4e939e0178f52b6dfee71e900b34763c790fe235f3dc1dbbbeeab`
+SHA-256: `36bb1fc0d5329ed875cc0f8be3ea1785a23f0bad1892b3878bb3432b1fe517a6`
