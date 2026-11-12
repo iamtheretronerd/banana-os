@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261112-0532
+# BananaOS 15.1 — 20261112-1408
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- BB10 Control Centre rebuilt: one solid sheet that slides down and up with your finger, BB10 tile sizes and spacing scaled to the KEY2 screen, BB10-style icons, handle at the bottom, one swipe up closes it, BB10 tile order. Lock screen: pulling down opens Bedside mode (never the shade), the moon opens it too, no black band over the wallpaper. Bedside mode opens again. Peek on the Recents key no longer crashes or stops working. Hub scrolls smoother. Active Frames: pages of four, nothing behind the dock. Power key: pitch-black BB10 screen with proper Cancel and Restart. Black volume strip. Faster app launches
+- Bedside mode is now part of the system: pull down on the lock screen and it slides down under your finger (let go early and it slides back), swipe up from the bottom to leave, the moon and the Quick Settings tile slide it in too. Control Centre: slides as one sheet that follows your finger, ends under the tiles (about 80% of the screen) with the handle, no grey dim or gap below it, closes once (no second slide), never leaves a black screen, a tap below it closes it. No black bar at the top of the lock screen or while unlocking. Peek on the home screen shrinks the home screen into the card
 
-SHA-256: `36bb1fc0d5329ed875cc0f8be3ea1785a23f0bad1892b3878bb3432b1fe517a6`
+SHA-256: `394be0a3da035ff9a11275eb5b959e6006f83051c7a6bc7117185cbfe5aa4af1`
