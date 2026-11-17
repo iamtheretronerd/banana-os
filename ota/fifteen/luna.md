@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261112-1510
+# BananaOS 15.1 — 20261117-1936
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Control Centre: every pull opens it (no more empty pull-down with only the battery showing, needing a second pull). Includes everything from 20261112-1408: Bedside mode in the system that follows your finger, the Control Centre sheet fixes, no black bar on the lock screen
+- Touch and hold an app shows its menu with shortcuts straight away (no blinking edit mode). BB10-style quick reply: white field and flat grey Send. Home screen icons no longer turn grey after reading their messages in the Hub. Holding Recents on the home screen shrinks the home screen into the card. Automatic keyboard backlight now uses the light sensor: it comes on in the dark and goes off in daylight. "BlackBerry is starting" at boot. Recovery only installs packages signed by BananaOS
 
-SHA-256: `2e0bd02055381c926c093a8247db8aa937f9f7e3a41c7b3da5ecef0c27ad972c`
+SHA-256: `0026b4cfc633a0bff0b222e316a070e06502de5637e1add530a9dab8c4575504`
