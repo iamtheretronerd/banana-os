@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261118-1140
+# BananaOS 15.1 — 20261118-1619
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- New BlackBerry 10 Phone: BB10 incoming call (slide the circle left to answer, right to reject), BB10 in-call screen, and the Phone app with Calls and speed dial, Contacts and Dial Pad (smart dialing, KEY2 keyboard dialing). It replaces Google Phone. Text messages in the Hub: Text Messages is now a native BB10 app built into the Hub (one row per chat, BB10 conversation and Compose screens); to use it, set Text Messages as the default SMS app in Settings. Settings sub-pages no longer show the list behind the status bar
+- Text Messages is now the built-in SMS app and lives in the Hub (Google Messages is removed): tap a chat in the Hub to open it in the BB10 conversation screen, and Back returns to the Hub. BB10 look: message cards with the sender's picture, sent/delivered marks, Today/Yesterday date lines, pictures inside the card with their file name, the BB10 bar (Back, emoticons, attach, send, menu) and the BB10 Compose screen. Fixes: text notifications are back, and the Set as default banner no longer shows when Text Messages is already the default. Also in this update: the BB10 Phone app and call screens (Google Phone is removed), and Settings sub-pages no longer show the list behind the status bar
 
-SHA-256: `21fb2ddc5e4a1878181aa4a7b59d6efe3ba0a3a81f872d69db3fc465507356c7`
+SHA-256: `1016a10a048aa421ecd8ab9b14a438c15711b71c8e3d46561260723506d9f734`
