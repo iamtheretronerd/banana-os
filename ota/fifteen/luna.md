@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261117-1936
+# BananaOS 15.1 — 20261118-0029
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Touch and hold an app shows its menu with shortcuts straight away (no blinking edit mode). BB10-style quick reply: white field and flat grey Send. Home screen icons no longer turn grey after reading their messages in the Hub. Holding Recents on the home screen shrinks the home screen into the card. Automatic keyboard backlight now uses the light sensor: it comes on in the dark and goes off in daylight. "BlackBerry is starting" at boot. Recovery only installs packages signed by BananaOS
+- Keyboard backlight now follows the screen brightness in the dark: it dims and brightens with the screen (auto-brightness or the slider) and still turns off in daylight. Keeps a floor so the keys stay readable at the lowest screen level
 
-SHA-256: `0026b4cfc633a0bff0b222e316a070e06502de5637e1add530a9dab8c4575504`
+SHA-256: `79a7f288c8eb4c91ddf9c0f5e5c057b58f02e75e2dadc7f20d6b59437c7321d9`
