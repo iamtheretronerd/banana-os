@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261119-0539
+# BananaOS 15.1 — 20261119-0805
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Fixes the launcher crash ('BananaLauncher keeps stopping') when holding Recents and when leaving a Hub opened from an app. That crash is also why Recents and the Hub fell back to plain slide animations. Recents shrinks the live app into its Active Frame again, holding Recents lifts the app into the Peek card, and swiping in the Hub pushes the app aside; Back from that Hub returns to the app. Lower memory use with many open apps
+- The Hub from apps, holding Recents and the Recents key now work on the live app: the system connects to the launcher after you unlock (before, it never did, so these fell back to plain animations). Restart once after updating. Going home from an app shrinks it into its Active Frame. Sliding right out of a Peek, the Hub slides in from the left. The Peek column no longer flickers when you let go, and turning the screen off ends a Peek. New: Keyboard shortcuts (Settings > System > BananaOS): speed key + letter, or a tap of the speed key, opens an app, calls or texts someone, or does a system action; the speed key still works as Ctrl. BananaOS settings are split into pages. Hub: no separate Notifications account; Priority shows what you marked Priority and pinned chats
 
-SHA-256: `78bfaecc67ab9a472f8c8818dac07f0d5599de1be69d511274cadc2cd9f98848`
+SHA-256: `0bf98225dcb8512d7f96b57242336e7832c7eac2b9ac2b6f500609a5ac66d51e`
