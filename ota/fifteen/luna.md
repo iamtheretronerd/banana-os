@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261119-1709
+# BananaOS 15.1 — 20261119-2054
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Back works like BlackBerry 10 content peek (gesture navigation): drag in from the left edge and the screen slides right with your finger, showing the screen before it underneath; let go past the tick to go back, or drag back to cancel. This works in apps that support Android predictive back; in others, Back happens when you let go. Back at the first screen of an app shrinks it into its Active Frame. The Phone app follows dark mode everywhere now, including its settings and call details
+- Swiping from an app to the Hub no longer shows the home screen: from an edge, the app now slides off the Hub, which is already in place underneath it; in gesture navigation (swipe up, then right) only the dimmed wallpaper shows around the app as the Hub comes in
 
-SHA-256: `c0db8ef5fd16f534c48da382876883a8e52c01242dd6a4cab7a42385740a5674`
+SHA-256: `c553e8cd2782080ff2c9c457fb70da1ee2ebf00e8875e11af587ce32b75037d2`
