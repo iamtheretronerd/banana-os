@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261119-1550
+# BananaOS 15.1 — 20261119-1709
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Gesture navigation works like BB10: swiping up draws the app into the Peek card in the middle of the screen and holds it there, with the Hub column coming in beside it. Hold still for the date. Slide right and the Hub comes in from the left edge with your finger, pushing the card along. Let go high to minimise into Active Frames, low to go back to the app, or past halfway right to open the Hub. Swiping into the Hub from an app now shows the Hub beside the app as you drag (before, only the wallpaper showed). Phone app: Calls and Contacts match BlackBerry 10.3: large speed dial tiles, pictures down the left edge, the time beside the name, "Mobile: number" under it, and a chevron for each call's options
+- Back works like BlackBerry 10 content peek (gesture navigation): drag in from the left edge and the screen slides right with your finger, showing the screen before it underneath; let go past the tick to go back, or drag back to cancel. This works in apps that support Android predictive back; in others, Back happens when you let go. Back at the first screen of an app shrinks it into its Active Frame. The Phone app follows dark mode everywhere now, including its settings and call details
 
-SHA-256: `6c04ff3c4d004e4263c2691459b459f1a4936eee6ed7aa13f88171418f7df07e`
+SHA-256: `c0db8ef5fd16f534c48da382876883a8e52c01242dd6a4cab7a42385740a5674`
