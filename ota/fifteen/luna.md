@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261120-0004
+# BananaOS 15.1 — 20261120-0442
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Settings in the BlackBerry 10 look on every page: Back bar with the slanted blue line at the bottom, white (or black) lists with a line under every row, BB10 toggles, buttons, sliders, drop-downs, radio lists and dialogs, and BB10 blue instead of wallpaper colours across the system. Also: lock screen notification line only as tall as the notifications, Instant Preview quick reply in the BB10 look, plus everything from the last update: smoother swipe up out of apps, touch keys unlit in gesture mode, Control Centre closes fully on a slow push, Back slides in the Hub
+- Banana Keyboard is the new keyboard (built from Plektra, checked for privacy and signed by BananaOS): SYM opens the extra symbols, then the symbols printed on the keys, then closes; incognito, number and password fields are never learned; nothing is backed up or sent anywhere unless you download a dictionary. Gboard and the AOSP keyboard are gone. System Settings main page: full-colour BB10 icons, BB10 rows with no arrows, and Airplane Mode at the top.
 
-SHA-256: `e4b59489ff90dc4d9188afe20165c3137969e80c713a781bdaa8ffaeee6fad89`
+SHA-256: `906d67ab065fc106e44a16348115e39f1631704e3e111ddc0df5eb7e1ec2bb25`
