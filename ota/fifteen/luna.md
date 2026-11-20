@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261120-0442
+# BananaOS 15.1 — 20261120-1334
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Banana Keyboard is the new keyboard (built from Plektra, checked for privacy and signed by BananaOS): SYM opens the extra symbols, then the symbols printed on the keys, then closes; incognito, number and password fields are never learned; nothing is backed up or sent anywhere unless you download a dictionary. Gboard and the AOSP keyboard are gone. System Settings main page: full-colour BB10 icons, BB10 rows with no arrows, and Airplane Mode at the top.
+- BB10 Clock replaces Google Clock: alarm face with a draggable alarm hand, World Clock map, Stopwatch, Timer, Edit Alarm and Bedside Mode (old Google Clock alarms do not carry over). Banana Keyboard now shows word suggestions in every app and learns as you type (never in incognito, number or password fields); it is set up out of the box and lives in Settings > BananaOS > Keyboard instead of the home screen. Settings: the extra back arrow is gone, BB10 blue title bar, bold section headers with the blue line, coloured icons. Hub: in gesture navigation the app slides off the Hub underneath so you can peek, and the Hub closes only with a swipe in from the right edge; Upcoming Events in the BB10 layout. Active Frames keep their place; page dots are display-only. Phone: contact photos in the call list and sharp speed dial photos. System update: the update server can no longer be changed.
 
-SHA-256: `906d67ab065fc106e44a16348115e39f1631704e3e111ddc0df5eb7e1ec2bb25`
+SHA-256: `85fc2d5eac7a452e257edbaf735c42ddf83ae3e1e3fa394294587cfd7c757418`
