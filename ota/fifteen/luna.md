@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261121-0929
+# BananaOS 15.1 — 20261121-1710
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Picture password, BlackBerry 10's: Settings > Security > Screen lock > Picture password. Choose your wallpaper or another picture, a number, and the part of the picture to drag it to. To unlock, drag the shuffled grid of numbers from anywhere until your number sits on your spot. A random drag gets in about 1 time in 10, so after 3 wrong drags in a row the lock asks for the keyboard code shown at the end of setup (also used after a factory reset); write it down. Stored as a real Android password: same encryption and lockouts.
+- Picture password now fills the lock screen as on BlackBerry 10, with the message and Emergency in a see-through bar over the picture; setup shows the picture full screen too. The picture's grid changed shape, so set your picture password again (Settings > Security > Screen lock; unlock with your keyboard code if the old spot no longer works). Also fixes Settings crashing when opening Networks and Connections > Internet.
 
-SHA-256: `82b119695535c2651b5aa5a801450bd5ed8c737d6e8db4695d729083700a6c7d`
+SHA-256: `e47171d2358720c9336b91f600ac9cdbbe9bbe7484ee890989fca1809ee588a5`
