@@ -1,8 +1,8 @@
-# BananaOS 15.1 — 20261121-1710
+# BananaOS 15.1 — 20261122-2302
 
 BlackBerry KEY2 LE (`luna`)
 
 ## Changes
-- Picture password now fills the lock screen as on BlackBerry 10, with the message and Emergency in a see-through bar over the picture; setup shows the picture full screen too. The picture's grid changed shape, so set your picture password again (Settings > Security > Screen lock; unlock with your keyboard code if the old spot no longer works). Also fixes Settings crashing when opening Networks and Connections > Internet.
+- Smoother Peek and Hub: swiping up now shrinks the card and slides the notification column in beside it in step, frame by frame; sliding right moves the wallpaper, card and column together off the Hub with a magnetic feel, as on BlackBerry 10. The icons no longer drift toward the screen edge.
 
-SHA-256: `e47171d2358720c9336b91f600ac9cdbbe9bbe7484ee890989fca1809ee588a5`
+SHA-256: `a84569a7dc10b1e3585fbad4a23122a68f711464fa149c6d7bc3724183420c46`
